@@ -1,0 +1,13 @@
+{
+	"confirm": "Да",
+	"good.afternoon": "Добрый день!",
+	"good.evening": "Добрый вечер!",
+	"good.morning": "Доброе утро!",
+	"good.night": "Доброй ночи!",
+	"nameOfTheHoliday.first": "Сегодня",
+	"nameOfTheHoliday.second": "А также",
+	"nameOfTheHoliday.third": "И",
+	"nameProgram": "Какой сегодня день?",
+	"tryAgain.first": "Нажмите на Enter, чтобы закрыть приложение.",
+	"tryAgain.second": "Если хотите узнать о других праздниках, напишите «ДА»"
+}
