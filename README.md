@@ -8,8 +8,9 @@
 
 ```bash
 pip install beautifulsoup4==4.13.4
-pip install Requests==2.32.4
-pip install windows_toasts==1.3.1
+pip install notify_py==0.3.43
+pip install requests==2.32.3
+pip install Windows-Toasts==1.3.1
 ```
 
 Затем просто скачивайте весь архив и запускайте скрипт main.py.
@@ -30,8 +31,9 @@ First of all to install this program you need to download the following librarie
 
 ```bash
 pip install beautifulsoup4==4.13.4
-pip install Requests==2.32.4
-pip install windows_toasts==1.3.1
+pip install notify_py==0.3.43
+pip install requests==2.32.3
+pip install Windows-Toasts==1.3.1
 ```
 
 Then just download the entire archive and run the script main.py.
