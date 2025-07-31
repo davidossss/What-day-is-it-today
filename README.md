@@ -16,7 +16,7 @@ pip install windows_toasts==1.3.1
 
 ## Применение
 
-Эту программу лучше добавить в "Автозапуск". Чтобы сделать это, нужно создать ярлык скрипта "main.py" и затем скопировать в папку Автозапуска (WIN+R -> вводите shell:startup).
+Эту программу лучше добавить в "Автозапуск". Чтобы сделать это, нужно создать ярлык скрипта "main.py" и затем скопировать в папку "Автозапуска" (WIN+R -> вводите shell:startup).
 
 ## —
 
@@ -38,4 +38,4 @@ Then just download the entire archive and run the script main.py.
 
 ## Usage
 
-It's best to add this program to the "Startup". To do this, you need to create a script shortcut "main.py" and then copy to the Autorun folder (WIN+R -> enter shell:startup).
+It's best to add this program to the "Startup". To do this, you need to create a script shortcut "main.py" and then copy to the "Startup" folder (WIN+R -> enter shell:startup).
